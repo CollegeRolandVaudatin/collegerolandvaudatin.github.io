@@ -36,6 +36,9 @@ aside {
   padding: 10px;
 }
 
+aside img {
+  width: 25%;
+}
 /* Style pour le pied de page */
 footer {
   background-color: #6df79f;
