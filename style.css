@@ -37,7 +37,8 @@ aside {
 }
 
 aside img {
-  width: 25%;
+  display: flex;
+  justify-content: center;
 }
 /* Style pour le pied de page */
 footer {
