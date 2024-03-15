@@ -36,9 +36,8 @@ aside {
   padding: 10px;
 }
 
-aside img {
-  width: 25%;
-  display: flex;
+aside div {
+ display: flex;
   justify-content: center;
 }
 /* Style pour le pied de page */
