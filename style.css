@@ -36,8 +36,8 @@ aside {
   padding: 10px;
 }
 
-aside div {
-  max-width : 50%;
+aside img {
+  max-width : 25%;
 height : auto;
   display: flex;
   justify-content: center;
