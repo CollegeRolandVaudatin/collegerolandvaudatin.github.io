@@ -37,6 +37,8 @@ aside {
 }
 
 aside div {
+  max-width : 50%;
+height : auto;
   display: flex;
   justify-content: center;
 }
