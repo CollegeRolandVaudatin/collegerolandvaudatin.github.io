@@ -40,8 +40,8 @@ aside {
 aside img {
   max-width : 25%;
 height : auto;
-  display: flex;
-  justify-content: center;
+  /* display: flex;
+  justify-content: center; */
 }
 /* Style pour le pied de page */
 footer {
